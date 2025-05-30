@@ -8,7 +8,7 @@ Welcome to my Big Data Learning Journey! This repository documents my hands-on e
 
 In today's data-driven landscape, organizations generate massive volumes of data every second. This course is designed to equip learners with the tools, technologies, and skills required to manage, process, and analyze Big Data efficiently.
 
-From foundational concepts to advanced topics, this bootcamp covers Hadoop, Apache Spark, Kafka, Flink, Airflow, and cloud services (Azure & GCP), offering practical knowledge through end-to-end data engineering projects.
+From foundational concepts to advanced topics, this  covers Hadoop, Apache Spark, Hive, Kafka, Flink, Airflow, and cloud services (Azure and GCP), offering practical knowledge through end-to-end data engineering projects.
 
 ---
 
